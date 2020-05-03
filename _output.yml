@@ -7,7 +7,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">CDT Book</a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        <li><a href="https://iri.columbia.edu/our-expertise/climate/tools/cdt/" target="blank">Published by IRI</a></li>
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
